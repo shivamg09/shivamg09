@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shivam.gupta@roinet.in**
 
-- 📄 Know about my experiences [www.linkedin.com/in/shivam-gupta-05a352260](www.linkedin.com/in/shivam-gupta-05a352260)
+- 📄 Know about my experiences [https://www.linkedin.com/in/shivam-gupta-05a352260](https://www.linkedin.com/in/shivam-gupta-05a352260)
 
 - ⚡ Fun fact **I enjoy finding bugs before users do**
 
