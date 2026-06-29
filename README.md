@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Functional Testing, API Testing, Database Testing.**
 
-- 📫 How to reach me **shivam.gupta@roinet.in**
+- 📫 How to reach me **shivamg091997@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shivam-gupta-05a352260](https://www.linkedin.com/in/shivam-gupta-05a352260)
 
